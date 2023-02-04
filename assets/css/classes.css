@@ -1,5 +1,5 @@
 .main-bg {
-    background-image: url('/assets/imagens/protruding-squares.svg');
+    background-image: url('../imagens/protruding-squares.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white-color)
